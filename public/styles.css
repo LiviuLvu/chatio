@@ -12,7 +12,7 @@ body{
 }
 
 #mainWrapper{
-  
+  display:none;
 }
 
 #chatWrapper{
@@ -35,7 +35,6 @@ body{
 }
 
 #namesWrapper{
-  display:none;
   float:left;
   border:1px #ccc solid;
   border-radius: 10px;
